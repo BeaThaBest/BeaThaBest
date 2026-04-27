@@ -217,3 +217,4 @@ Long-term: I want to launch my own product and build a company around it.
 <p align="center">
   <i>Open to collaboration · freelance · full-time opportunities</i>
 </p>
+
